@@ -152,3 +152,8 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+#Added more Pycharm stuff
+.idea/**/misc.xml
+.idea/**/modules.xml
+.idea/**/TK_DEV.iml
